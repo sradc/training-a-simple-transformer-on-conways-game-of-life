@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "training-a-simple-transformer-on-the-game-of-life"
+version = "0.1.0"
+description = ""
+authors = ["sradc <sidneyradcliffe@sky.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.29.5"
+isort = "^5.13.2"
+matplotlib = "^3.9.1"
+torch = "^2.3.1"
+pandas = "^2.2.2"
+scipy = "^1.14.0"
+tqdm = "^4.66.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
