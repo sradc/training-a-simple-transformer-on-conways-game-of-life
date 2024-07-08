@@ -17,3 +17,23 @@ Please use the following to cite:
   month={July}
 }
 ```
+
+---
+
+<p align="center">
+<img 
+    src="plots/life_grid_computed_by_transformer.gif"
+/>
+</p>
+
+<p align="center">
+<img 
+    src="plots/attention_matrix_training.gif"
+/>
+</p>
+
+<p align="center">
+<img 
+    src="plots/training_progress.png"
+/>
+</p>
